@@ -10,3 +10,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 .rojo{
     color:crimson;
 }
+
+.fondoClaro[
+    ::backdrop: baige;
+]
